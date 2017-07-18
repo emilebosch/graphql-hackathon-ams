@@ -7,8 +7,8 @@ Most of the things are discussed in the [Issues](https://github.com/emilebosch/g
 
 ## Current status
 
-- Location - We've a couple of options pending. It's in Amsterdam for sure.
-- Date - Probably 25th of August 2017.
+- Location -  It's in Amsterdam @ Codaisseur 🙌
+- Date - 25th of August 2017.
 
 ## Most discussed items at the moment :fire:
 
